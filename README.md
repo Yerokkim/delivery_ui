@@ -2,7 +2,7 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-### yamuntu partner dashbaord
+### delivery app UI
 
 - This application only shows UI design, all the data is hardcoded.
 
